@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimationNew</string>
+    <string name="transition_image">transition_image</string>
+    <string name="transition_root">transition_root</string>
+</resources>
